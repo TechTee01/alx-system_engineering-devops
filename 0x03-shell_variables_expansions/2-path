@@ -1,1 +1,1 @@
-echo PATH=$PATH:/action
+echo PATH=$PATH:action
