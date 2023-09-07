@@ -1,5 +1,2 @@
-#!/bin/bash
-john='good boy'
-echo alex is a $JOHN
-echo hello $USER
-
+#!/bin/bash 
+echo "hello $USER"
